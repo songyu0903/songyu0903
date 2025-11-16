@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=songyu0903.readme)
 
 ![songyu0903's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyu0903)
