@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=songyu0903)
+![](https://visitor-badge.glitch.me/badge?page_id=songyu0903.readme)
 
 
