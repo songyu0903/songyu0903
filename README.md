@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=obsidian,latex,md,matlab,py,apple" />
-  </a>
-</p>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=songyu0903.readme)
 
@@ -29,6 +25,10 @@ Here are some ideas to get you started:
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=obsidian,latex,md,matlab,py,apple" />
+  </a>
+</p>
 
 
