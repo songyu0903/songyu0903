@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyu0903)
 
-![visitors](https://visitor-badge.glitch.me/badge?songyu0903=page.id&left_color=green&right_color=red)
+
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=songyu0903)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/songyu0903/songyu0903/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/songyu0903/songyu0903/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/songyu0903/songyu0903/output/github-contribution-grid-snake.svg">
+</picture>
