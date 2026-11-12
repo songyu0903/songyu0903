@@ -36,10 +36,6 @@
 ## 贡献
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/songyu0903/songyu0903/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/songyu0903/songyu0903/output/github-contribution-grid-snake.svg" />
@@ -47,4 +43,4 @@
   </picture>
 </p>
 
-<p align="center"><sub>3D 贡献图与贡献贪吃蛇由 GitHub Actions 定时生成</sub></p>
+<p align="center"><sub>贡献贪吃蛇由 GitHub Actions 每日自动生成</sub></p>
